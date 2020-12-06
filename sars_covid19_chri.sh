@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# analysis of covid_19 genome sequence
+
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/858/895/GCF_009858895.2_ASM985889v3/GCF_009858895.2_ASM985889v3_genomic.fna.gz
 
 
